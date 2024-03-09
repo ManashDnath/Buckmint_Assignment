@@ -1,0 +1,70 @@
+.minutes-ago,
+.outing-schedule-for {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+}
+.minutes-ago {
+  font-size: var(--body-very-small-size);
+  line-height: 14px;
+  font-family: var(--subtitle-small);
+  color: var(--secondary-subtitle-color);
+}
+.frame-department1 {
+  width: 405px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px 0;
+  max-width: 100%;
+}
+.bipin-angle-fill-icon,
+.carbonoverflow-menu-horizonta-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.frame-department-parent,
+.frame-frame,
+.frame-frame-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-frame {
+  flex-direction: row;
+  gap: 0 20px;
+}
+.frame-department-parent,
+.frame-frame-wrapper {
+  flex-direction: column;
+  padding: var(--padding-3xs) 0 0;
+}
+.frame-department-parent {
+  align-self: stretch;
+  border-radius: var(--br-7xs);
+  background-color: var(--background-color);
+  border: 0.5px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-xs) var(--padding-mid) var(--padding-xs)
+    var(--padding-mini);
+  max-width: 100%;
+  gap: var(--gap-xl);
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--secondary-title-color);
+  font-family: var(--title-medium);
+}
+@media screen and (max-width: 675px) {
+  .frame-department-parent {
+    flex-wrap: wrap;
+  }
+}

@@ -1,0 +1,208 @@
+/* .text-minutes-ago,
+.total-employees {
+  line-height: 28px;
+  font-weight: 500;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #161e54;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.frame-department {
+  width: 147px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: relative;
+  gap: 0 22px;
+}
+.men,
+.women {
+  align-self: stretch;
+  position: relative;
+  line-height: 18px;
+}
+.frame-recurring,
+.schedule-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.frame-a-m {
+  height: 69px;
+  width: 114.5px;
+  position: absolute;
+  margin: 0 !important;
+  right: -52.1px;
+  bottom: -68.9px;
+  z-index: 1;
+}
+.icnotifications {
+  position: relative;
+  line-height: 12px;
+  font-weight: 500;
+  z-index: 2;
+}
+.frame-a-m-parent {
+  height: 7.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.createnew-schedule-icon {
+  height: 16px;
+  width: 16px;
+  position: absolute;
+  margin: 0 !important;
+  right: 42.5px;
+  bottom: -12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.text-thisis-title {
+  height: 13px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 42px;
+  box-sizing: border-box;
+  position: relative;
+}
+.frame-today-sep {
+  height: 41.8px;
+  width: 114.5px;
+  position: relative;
+}
+.groupichorizontalmenu,
+.text-thisis-title-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.past-month {
+  position: relative;
+  line-height: 24px;
+}
+.frame-announcement,
+.priority-frame {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.frame-upcoming-schedule,
+.talent-request {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.div2,
+.total-employees1 {
+  line-height: 28px;
+  font-weight: 500;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #161e54;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.total-employees-parent {
+  width: 147px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: relative;
+  gap: 0 22px;
+}
+.men1,
+.women1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 18px;
+}
+.frame-parent,
+.men-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.frame-child,
+.frame-item {
+  position: absolute;
+  top: 9.2px;
+  left: 0;
+  width: 114.5px;
+  height: 41.8px;
+}
+
+.div3,
+.frame-inner {
+  position: absolute;
+  z-index: 2;
+}
+
+.vector-parent {
+  align-self: stretch;
+  height: 78px;
+  position: relative;
+}
+.past-month1 {
+  position: relative;
+  line-height: 24px;
+}
+.past-month-wrapper {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-linen);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs);
+  white-space: nowrap;
+  font-size: var(--body-small-size);
+  color: var(--secondary-title-color);
+  font-family: var(--subtitle-small);
+}
+.frame-group,
+.totala-employees-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.totala-employees {
+  flex: 1;
+  border-radius: var(--br-3xs);
+  background-color: var(--just-white);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-xl) var(--padding-lgi);
+  gap: 0 40px;
+  min-width: 203px;
+  z-index: 1;
+}
+.text-search,
+.totala-employees,
+.upcoming-schedule {
+  display: flex;
+  justify-content: flex-start;
+} */
+
+.text-search {
+  display: flex;
+  gap: 10em;
+}

@@ -1,0 +1,12 @@
+/* .available-position1 {
+  font-weight: 500;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #161e54;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+} */
+
+.available-position {
+  display: flex;
+  gap: 10em;
+  border: 2px solid red;
+}
